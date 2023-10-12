@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.flex-conteiner {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+}
+.flex-item {
+    margin: 5px;
+    background-color: goldenrod;
+    border: black solid 2px;
+    font-size: 30px;
+}
+body{
+    background-color: grey;
+}
+aside {
+    background-color: royalblue;
+}
+.parrafo1 {
+    background-color: royalblue;
+    font-size: 20px;
+}
+.parrafo2 {
+    background-color: lightseagreen;
+    font-size: 20px;
+}
+h3 {
+    font-size: 25px;
+    background-color: lightseagreen;
+}
+.twitter-tweet {
+    background-color: lightgreen;
+}
+footer {
+    background-color:  lightskyblue;
+}
